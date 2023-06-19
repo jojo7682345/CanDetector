@@ -1,3 +1,0 @@
-2023-06-15 14:01 # Trained for 25 epochs
-2023-06-16 13:38 # Trained for 5 epochs
-2023-06-16 14:46 # Trained for 25 epochs 
