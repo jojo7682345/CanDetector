@@ -2,3 +2,4 @@
 !*.onnx
 !.gitignore
 !*.names
+!*.blob
